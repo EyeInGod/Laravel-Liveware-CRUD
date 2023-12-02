@@ -20,6 +20,7 @@
                             </div>
                         @endif
                         @livewire('posts')
+                        @livewire('counter')
                     </div>
                 </div>
             </div>
